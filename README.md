@@ -62,7 +62,7 @@ Follow these steps to set up the project locally.
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/fractal-nebula.git
+git clone https://github.com/burakbaslik/fractal-nebula.git
 cd fractal-nebula
 ```
 
