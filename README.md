@@ -114,6 +114,7 @@ python main.py --width 30 --height 30 --obstacles 0.2 --traffic 0.3
 
 ### 🖥️ Interactive Dashboard
 <img width="1887" height="952" alt="image" src="https://github.com/user-attachments/assets/40bcbe45-a8ac-4351-91c2-c57af4d5e439" />
+
 ### 📊 Benchmark Results
 <img width="1893" height="931" alt="image" src="https://github.com/user-attachments/assets/5201a689-0762-46fb-be04-16c812815345" />
 
