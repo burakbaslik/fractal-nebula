@@ -1,6 +1,6 @@
 # Fractal Nebula - Emergency Route Optimization
 
-![Project Banner](https://via.placeholder.com/1200x300?text=Fractal+Nebula+Project+Banner)
+<img width="1536" height="1024" alt="Project Banner" src="https://github.com/user-attachments/assets/a141406b-232e-45a1-90bb-aeb15f516d51" />
 
 ## 📌 Project Overview
 
@@ -113,10 +113,13 @@ python main.py --width 30 --height 30 --obstacles 0.2 --traffic 0.3
 ## 📷 Screenshots
 
 ### 🖥️ Interactive Dashboard
-![Dashboard Placeholder](https://via.placeholder.com/800x450?text=Dashboard+Screenshot)
+<img width="1887" height="952" alt="image" src="https://github.com/user-attachments/assets/40bcbe45-a8ac-4351-91c2-c57af4d5e439" />
+### 📊 Benchmark Results
+<img width="1893" height="931" alt="image" src="https://github.com/user-attachments/assets/5201a689-0762-46fb-be04-16c812815345" />
 
 ### 📊 Route Visualization
-![Visualization Placeholder](https://via.placeholder.com/800x450?text=Algorithm+Visualization)
+<img width="1847" height="923" alt="image" src="https://github.com/user-attachments/assets/cd3e3563-a9d9-455e-b2d5-c0eb264069b5" />
+
 
 ## 📉 Results & Evaluation
 
@@ -134,4 +137,3 @@ Typical results show that **A*** expands significantly fewer nodes than **Dijkst
 *   **Safe Execution**: The code uses standard libraries and does not make external network requests (other than installing dependencies).
 
 ---
-*Created by [Burak Başlık](https://github.com/burakbaslik)*
